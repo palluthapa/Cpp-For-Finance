@@ -44,7 +44,7 @@ class Increment
         {return value;}
 
         // Overload ++ operator when used as prefix.
-        Increment operator ++ () 
+        Increment operator ++ ()    // Return type of operator + is Increment class.
         {
             Increment temp;            
             temp.value = ++value;  // Here, value is the value attribute of the calling object.

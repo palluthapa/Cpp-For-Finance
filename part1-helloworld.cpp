@@ -7,4 +7,9 @@ int main()
     return 0;   // Program executed successfully without errors.
 }
 
+/*
+To compile and run this program do the following in terminal:
+    C:\Users\Desktop\Cpp For Finance> g++ part1-helloworld.cpp -o part1-helloworld
+    C:\Users\Desktop\Cpp For Finance>./part1-helloworld
+*/
 
